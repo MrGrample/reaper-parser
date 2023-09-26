@@ -1,0 +1,165 @@
+{
+    "Project Info": {
+        "Project Name": "tset2.rpp",
+        "Project Path": "D:\\WORK\\REAPER\\tset2.rpp",
+        "Project Title": "",
+        "Project Author": "",
+        "Artist Name": "",
+        "Album Name": "",
+        "Song Number": "",
+        "Genre": "",
+        "Tempo": 120.0
+    },
+    "Tracks": [
+        {
+            "Track Info": {
+                "Track Number": 0,
+                "Track Name": "Track 1"
+            },
+            "Used VSTs": [
+                {
+                    "VST Info": {
+                        "VST Number": 0,
+                        "VST Name": "VST: Haas (Kilohearts)"
+                    },
+                    "Params": [
+                        {
+                            "Param Info": {
+                                "Param Name:": "Enabled",
+                                "Param Value:": 1.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Channel",
+                                "Param Value:": 1.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Delay",
+                                "Param Value:": 0.5663233399391174
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Bypass",
+                                "Param Value:": 0.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Wet",
+                                "Param Value:": 1.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Delta",
+                                "Param Value:": 0.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "VST Info": {
+                        "VST Number": 1,
+                        "VST Name": "VST: Decapitator (x86) (SoundToys)"
+                    },
+                    "Params": [
+                        {
+                            "Param Info": {
+                                "Param Name:": "Bypass",
+                                "Param Value:": 0.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Style",
+                                "Param Value:": 0.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Drive",
+                                "Param Value:": 0.6600000262260437
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Punish",
+                                "Param Value:": 0.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "LowCut",
+                                "Param Value:": 0.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Tone",
+                                "Param Value:": 0.5
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "HighCut",
+                                "Param Value:": 1.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Mix",
+                                "Param Value:": 1.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "AutoGain",
+                                "Param Value:": 1.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "LowThump",
+                                "Param Value:": 0.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "HighSlope",
+                                "Param Value:": 0.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "OutputTrim",
+                                "Param Value:": 0.5625
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Bypass",
+                                "Param Value:": 0.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Wet",
+                                "Param Value:": 1.0
+                            }
+                        },
+                        {
+                            "Param Info": {
+                                "Param Name:": "Delta",
+                                "Param Value:": 0.0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

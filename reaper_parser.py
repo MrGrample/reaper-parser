@@ -47,7 +47,12 @@ else:
       }
       currVST['Params'] = []
       for c in range(RPR_TrackFX_GetNumParams(track,j)): 
-        currVST['Params'].append(RPR_TrackFX_GetParamName(track,j,c,"",512)[4])
+        currParam = {}
+        currParam['Param Info'] = {
+          'Param Name:': RPR_TrackFX_GetParamName(track,j,c,"",512)[4],
+          'Param Value:': RPR_TrackFX_GetParam(track,j,c,0,127)[0]
+        }
+        currVST['Params'].append(currParam)
       currTrack['Used VSTs'].append(currVST)
     data['Tracks'].append(currTrack)
 
